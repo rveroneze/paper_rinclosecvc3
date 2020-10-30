@@ -1,0 +1,8 @@
+http://geneontology.org/page/download-annotations
+acessado em 22/10/2020
+
+Saccharomyces cerevisiae
+sgd.gaf -> 22/10/2020
+
+Homo sapiens
+goa_human.gaf -> 22/10/2020

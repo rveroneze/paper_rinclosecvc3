@@ -1,0 +1,16 @@
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS750logesc_binwidth32 cvcp 305 3 0 GDS750logesc_binwidth32.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS759esc_binwidth28 cvcp 318 3 0 GDS759esc_binwidth28.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1981logesc_binwidth52 cvcp 154 3 0 GDS1981logesc_binwidth52.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS3035logesc_binwidth37 cvcp 467 3 0 GDS3035logesc_binwidth37.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS181logesc_binwidth41 cvcp 631 3 0 GDS181logesc_binwidth41.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1611esc_binwidth46 cvcp 467 3 0 GDS1611esc_binwidth46.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1116esc_binwidth12 cvcp 354 3 0 GDS1116esc_binwidth12.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS2910esc_binwidth22 cvcp 653 3 0 GDS2910esc_binwidth22.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS750logesc cvc 305 3 32 GDS750logesc_e32.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS759esc cvc 318 3 28 GDS759esc_e28.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1981logesc cvc 154 3 52 GDS1981logesc_e52.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS3035logesc cvc 467 3 37 GDS3035logesc_e37.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS181logesc cvc 631 3 41 GDS181logesc_e41.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1611esc cvc 467 3 46 GDS1611esc_e46.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS1116esc cvc 354 3 12 GDS1116esc_e12.py
+~/Documents/github/paper_rinclosecvc3/c++/rinclose3/RInClose /home/rve/Documents/github/paper_rinclosecvc3/expGDS/datasets/GDS2910esc cvc 653 3 22 GDS2910esc_e22.py
