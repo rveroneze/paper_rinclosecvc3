@@ -1,7 +1,7 @@
 # RIn-Close_CVC3
 
 Repository with the codes used in the experiments of the manuscript:
-- Veroneze, R., & Von Zuben, F. J. (In review). Scalability achievements for enumerative biclustering with online partitioning: case studies involving mixed-attribute datasets. Engineering Applications of Artificial Intelligence.
+- Veroneze, R., & Von Zuben, F. J. (2021). Scalability achievements for enumerative biclustering with online partitioning: Case studies involving mixed-attribute datasets. Engineering Applications of Artificial Intelligence, 100, 104147.
 
 Related reports:
 - Veroneze, R., & Von Zuben, F. J. (2020). New advances in enumerative biclustering algorithms with online partitioning. arXiv preprint arXiv:2003.04726.
